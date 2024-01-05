@@ -2,9 +2,8 @@ team: Tigers
 
 manager: John
 
-coach : Grace
+coach x: Grace
 
 members:
-- Linda
 - William
 - David
